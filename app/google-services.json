@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581544289539",
+    "project_id": "wchat-4f796",
+    "storage_bucket": "wchat-4f796.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581544289539:android:ebcd5f07b7e20751dcb536",
+        "android_client_info": {
+          "package_name": "org.example.wchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581544289539-79nr704gjmsi5g4fc8f2r3hb3b98eb96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwBUf82nJ9UMKxwG6YQaJP9a4HXnXERzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581544289539-79nr704gjmsi5g4fc8f2r3hb3b98eb96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
